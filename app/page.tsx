@@ -1,6 +1,9 @@
+import Navbar from "@/app/components/navbar/Navbar";
+
 export default function Home() {
-  return ( <h1>
-        Hello, Airbnb!
-      </h1>
+  return (
+      <Navbar>
+
+      </Navbar>
   );
 }
